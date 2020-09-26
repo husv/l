@@ -1,12 +1,12 @@
 
-””
-&v2ray.core.app.proxyman.ReceiverConfigj
-§“§“"^QD
-.v2ray.core.transport.internet.websocket.ConfigR0JAjMpSo8roppRF	websocket*	websocket{
+’’
+&v2ray.core.app.proxyman.ReceiverConfigh
+ää"^QD
+.v2ray.core.transport.internet.websocket.ConfigkP9OtB9YyAfHECK3	websocket*	websocket{
 %v2ray.core.proxy.vmess.inbound.ConfigR
 PN
 v2ray.core.proxy.vmess.Account,
-$676fe8d6-07ef-46a5-ba37-14c6b3f8f437K&
+$c147074c-35bc-4ccb-9657-6ebbd0ce5ec4K&
 $v2ray.core.app.proxyman.SenderConfig!
 v2ray.core.proxy.freedom.Config"!
 v2ray.core.app.log.Config""
