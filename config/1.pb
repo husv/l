@@ -1,7 +1,7 @@
 
-’’
-&v2ray.core.app.proxyman.ReceiverConfigh
-ñCñC"^QD
+””
+&v2ray.core.app.proxyman.ReceiverConfigj
+×ý×ý"^QD
 .v2ray.core.transport.internet.websocket.ConfigR0JAjMpSo8roppRF	websocket*	websocket{
 %v2ray.core.proxy.vmess.inbound.ConfigR
 PN
